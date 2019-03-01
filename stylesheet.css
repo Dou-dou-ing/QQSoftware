@@ -1,0 +1,42 @@
+body{ 
+    margin: 0;
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica, "PingFangSC-Light", 
+    "Hiragino Sans GB", "Heiti SC","microsoft yahei ui",
+     "Microsoft YaHei", "WenQuanYi Micro Hei","Segoe UI", Arial, 
+     sans-serif;
+}
+dl,
+dd{margin: 0 auto}
+h1{margin: 0;}
+.wrapper{
+    width: 960px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+.logo{
+    overflow: hidden;
+    border: 1px solid blue;
+}
+.logo h1{float: left;}
+.logo h1 {
+    
+}
+.logo a{
+    display: block;
+    width: 217px;
+    height: 63px;
+    text-indent: -9999px;
+    background:#00ffff url(img/logo.gif) 0 0 no-repeat;
+}
+.logo dl{
+    float: right;
+    margin-top: 12px;
+    margin-top: 15px;
+}
+.logo dl,dt{
+    font-weight: bold;
+}
+.nav{
+    background: url(img/navbg.gif);
+}
